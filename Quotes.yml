@@ -4,4 +4,3 @@ level: error
 nonword: true
 tokens:
   - '"[^"]+"[.,?]'
-  - "'[^']+'[.,?]"
