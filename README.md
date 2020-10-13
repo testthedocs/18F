@@ -1,6 +1,6 @@
 # 18F
 
-A Vale linter style that replicates the 18F [18F](https://pages.18f.gov/content-guide/).
+A Vale linter style that replicates the [18F](https://pages.18f.gov/content-guide/).
 
 __Not complete, and WIP, contributions welcome__.😁
 
@@ -14,7 +14,7 @@ This repository contains a [Vale-compatible](https://github.com/errata-ai/vale) 
 > As a work of the United States government, this project is in the public domain within the United States.
 
 > Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
-> 
+
 ## Getting Started
 
 > :exclamation: Requires Vale >= **1.7.0**. :exclamation:
